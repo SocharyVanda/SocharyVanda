@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Chary.<br>I am currently a computer science student.
+Hi, my name is Chary 
 
 
 ## 🌐 Socials:
