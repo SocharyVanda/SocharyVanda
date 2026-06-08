@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, my name is Chary 
+Hi, this is Chary 
 
 
 ## 🌐 Socials:
