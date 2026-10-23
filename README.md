@@ -1,13 +1,13 @@
 <p align="center"><img src="assets/banner.jpg" alt="banner" width="55%"></p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/SocharyVanda">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=72&duration=1800&pause=1000&color=00D7FF&center=true&vCenter=true&repeat=false&width=520&height=90&lines=CHARY" alt="CHARY" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=A5A8F6&center=true&vCenter=true&width=720&height=50&lines=Studying+Computer+Science;Based+in+Phnom+Penh%2C+Cambodia;Just+Keep+Coding" alt="learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=A5A8F6&center=true&vCenter=true&width=720&height=50&lines=Studying+Computer+Science;Vanda%2C+Cambodia;Sochary" alt="learner" />
 </p>
 
 <p align="center">Building projects, breaking things, and learning how it all fits together.</p>
