@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=A5A8F6&center=true&vCenter=true&width=720&height=50&lines=Studying+Computer+Science;Based+in+Phnom+Penh%2C+Cambodia;Just+Keep+Coding" alt="Studying Computer Science" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=A5A8F6&center=true&vCenter=true&width=720&height=50&lines=Studying+Computer+Science;Based+in+Phnom+Penh%2C+Cambodia;Just+Keep+Coding" alt="learner" />
 </p>
 
 <p align="center">Building projects, breaking things, and learning how it all fits together.</p>
 
 ---
 
-<h2 align="left"> About Me</h2>
+<h2 align="left"> About Me ( •̀ ω •́ )✧</h2>
 
 <img src="assets/about.jpg" alt="Mount Fuji and pagoda" align="right" width="300">
 
