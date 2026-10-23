@@ -51,7 +51,7 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SocharyVanda&theme=github-compact&hide_border=true&area=true" alt="Activity graph" width="100%" />
+  <img src="assets/activity-graph.svg" alt="Activity graph" width="100%" />
 </p>
 
 ---
