@@ -48,6 +48,12 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
   <img src="https://streak-stats.demolab.com/?user=SocharyVanda&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
+<h2 align="left"> Contribution Calendar</h2>
+
+<p align="center">
+  <img src="assets/contribution-calendar.svg" alt="Contribution calendar" width="100%" />
+</p>
+
 <h2 align="left"> Activity Graph</h2>
 
 <p align="center">
