@@ -7,7 +7,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=A5A8F6&center=true&vCenter=true&width=720&height=50&lines=Studying+Computer+Science;Vanda%2C+Cambodia;Sochary" alt="learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=A5A8F6&center=true&vCenter=true&width=720&height=50&lines=SocharyVANDA;Vanda;Sochary" alt="learner" />
 </p>
 
 <p align="center">Building projects, breaking things, and learning how it all fits together.</p>
