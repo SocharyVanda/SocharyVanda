@@ -1,13 +1,13 @@
-<p align="center"><img src="assets/banner.jpg" alt="banner" width="100%"></p>
-
-<h1 align="center">Hi 👋, I'm Chary</h1>
-
-<p align="center"><b>Computer Science Student</b></p>
+<p align="center"><img src="assets/banner.jpg" alt="banner" width="55%"></p>
 
 <p align="center">
   <a href="https://github.com/SocharyVanda">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=435&lines=Just+Keep+Coding;Learning+Something+New+Every+Day;Phnom+Penh%2C+Cambodia+%F0%9F%87%B0%F0%9F%87%AD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=72&duration=1800&pause=1000&color=00D7FF&center=true&vCenter=true&repeat=false&width=520&height=110&lines=CHARY" alt="CHARY" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1200&color=A5A8F6&center=true&vCenter=true&width=720&height=50&lines=Studying+Computer+Science;Based+in+Phnom+Penh%2C+Cambodia;Just+Keep+Coding" alt="Studying Computer Science" />
 </p>
 
 <p align="center">Building projects, breaking things, and learning how it all fits together.</p>
@@ -52,6 +52,16 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
 
 <p align="center">
   <img src="assets/activity-graph.svg" alt="Activity graph" width="100%" />
+</p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SocharyVanda/SocharyVanda/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SocharyVanda/SocharyVanda/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/SocharyVanda/SocharyVanda/output/github-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
+  </picture>
 </p>
 
 ---
