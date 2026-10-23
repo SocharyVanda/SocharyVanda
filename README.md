@@ -28,7 +28,7 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
 
 <br clear="right"/>
 
-<h2 align="center">🤝 Connect</h2>
+<h2 align="left"> Connect</h2>
 
 <p align="center">
   <a href="https://github.com/SocharyVanda"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>&nbsp;
@@ -36,25 +36,25 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
   <a href="mailto:vandasochary@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
 </p>
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="left"> Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,git,github&perline=9" alt="Tech stack" />
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="left"> GitHub Stats</h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SocharyVanda&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
-<h2 align="center">📈 Activity Graph</h2>
+<h2 align="left"> Activity Graph</h2>
 
 <p align="center">
   <img src="assets/activity-graph.svg" alt="Activity graph" width="100%" />
 </p>
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="left"> Contribution</h2>
 
 <p align="center">
   <picture>
@@ -66,6 +66,4 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SocharyVanda&icon=2&color=0" alt="Profile views" />
-</p>
+
