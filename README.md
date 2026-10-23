@@ -1,5 +1,4 @@
-<!-- BANNER: upload your gif to assets/banner.gif, then delete the two comment markers around the line below -->
-<!-- <p align="center"><img src="assets/banner.gif" alt="banner" width="100%"></p> -->
+<p align="center"><img src="assets/banner.jpg" alt="banner" width="100%"></p>
 
 <h1 align="center">Hi 👋, I'm Chary</h1>
 
@@ -17,8 +16,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<!-- ABOUT IMAGE: upload your picture to assets/about.gif, then delete the two comment markers around the line below -->
-<!-- <img src="assets/about.gif" alt="about me" align="right" width="230"> -->
+<img src="assets/about.jpg" alt="Mount Fuji and pagoda" align="right" width="300">
 
 **Chary** here — a Computer Science student from Phnom Penh, Cambodia.
 
