@@ -65,6 +65,10 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
 <h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=22&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=211&height=36&lines=Contribution" alt="Contribution" /></h2>
 
 <p align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D contribution chart" width="100%" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SocharyVanda/SocharyVanda/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SocharyVanda/SocharyVanda/output/github-snake.svg" />
