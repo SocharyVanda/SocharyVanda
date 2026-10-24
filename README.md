@@ -45,7 +45,9 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
 <h2 align="left"> GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=SocharyVanda&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=SocharyVanda&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="195" />
+  &nbsp;
+  <img src="assets/typing.gif" alt="Hands typing on a retro keyboard" height="195" />
 </p>
 
 <h2 align="left"> Contribution Calendar</h2>
