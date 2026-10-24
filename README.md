@@ -16,7 +16,7 @@
 
 <h2 align="left"> About Me ( •̀ ω •́ )✧</h2>
 
-<img src="assets/about.jpg" alt="Mount Fuji and pagoda" align="right" width="300">
+<img src="assets/about.gif" alt="Figure looking out a window at a neon city" align="right" width="300">
 
 **Chary** here — a Computer Science student from Phnom Penh, Cambodia.
 
@@ -75,3 +75,5 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
 ---
 
 
+
+<p align="center"><img src="assets/footer.gif" alt="Waterfall in a forest" width="100%"></p>
