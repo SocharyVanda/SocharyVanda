@@ -78,9 +78,9 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/snake/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/snake/github-snake.svg" />
-    <img src="assets/snake/github-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SocharyVanda/SocharyVanda/main/assets/snake/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SocharyVanda/SocharyVanda/main/assets/snake/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/SocharyVanda/SocharyVanda/main/assets/snake/github-snake-dark.svg" alt="Snake eating my contributions" width="100%" />
   </picture>
 </p>
 
