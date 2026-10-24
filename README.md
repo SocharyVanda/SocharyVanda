@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.gif" alt="Purple energy burst on a neon grid" width="55%"></p>
+<p align="center"><img src="assets/banner.gif" alt="Neon-lit purple alley with a graffiti wall" width="55%"></p>
 
 <!-- <p align="center">
   <a href="https://github.com/SocharyVanda">
@@ -16,7 +16,7 @@
 
 <h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=22&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=345&height=36&lines=About%20Me%20%28%20%E2%80%A2%CC%80%20%CF%89%20%E2%80%A2%CC%81%20%29%E2%9C%A7" alt="About Me ( •̀ ω •́ )✧" /></h2>
 
-<img src="assets/about.gif" alt="Figure looking out a window at a neon city" align="right" width="300">
+<img src="assets/about.gif" alt="Pixel-art figure on a balcony over a night city" align="right" width="280">
 
 **Chary** here — a Computer Science student from Phnom Penh, Cambodia.
 
