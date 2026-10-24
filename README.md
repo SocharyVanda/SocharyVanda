@@ -58,6 +58,10 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
   <img src="assets/typing.gif" alt="Hands typing on a retro keyboard" height="195" />
 </p>
 
+<p align="center">
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D contribution chart" width="100%" />
+</p>
+
 <h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=22&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=345&height=36&lines=Contribution%20Calendar" alt="Contribution Calendar" /></h2>
 
 <p align="center">
@@ -71,10 +75,6 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
 </p>
 
 <h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=22&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=211&height=36&lines=Contribution" alt="Contribution" /></h2>
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D contribution chart" width="100%" />
-</p>
 
 <p align="center">
   <picture>
