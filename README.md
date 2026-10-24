@@ -31,15 +31,23 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
 <h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=22&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=160&height=36&lines=Connect" alt="Connect" /></h2>
 
 <p align="center">
-  <a href="https://github.com/SocharyVanda"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>&nbsp;
-  <a href="https://discord.gg/greensushiii"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="40" /></a>&nbsp;
-  <a href="mailto:vandasochary@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
+  <a href="https://github.com/SocharyVanda"><img src="assets/icons/connect-0-github.svg" alt="GitHub" height="47" /></a>&nbsp;
+  <a href="https://discord.gg/greensushiii"><img src="assets/icons/connect-1-discord.svg" alt="Discord" height="47" /></a>&nbsp;
+  <a href="mailto:vandasochary@gmail.com"><img src="assets/icons/connect-2-gmail.svg" alt="Email" height="47" /></a>
 </p>
 
 <h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=22&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=181&height=36&lines=Tech%20Stack" alt="Tech Stack" /></h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,git,github&perline=9" alt="Tech stack" />
+  <img src="assets/icons/stack-0-java.svg" alt="Java" height="56" />
+  <img src="assets/icons/stack-1-c.svg" alt="C" height="56" />
+  <img src="assets/icons/stack-2-cpp.svg" alt="C++" height="56" />
+  <img src="assets/icons/stack-3-python.svg" alt="Python" height="56" />
+  <img src="assets/icons/stack-4-html.svg" alt="HTML" height="56" />
+  <img src="assets/icons/stack-5-css.svg" alt="CSS" height="56" />
+  <img src="assets/icons/stack-6-js.svg" alt="JavaScript" height="56" />
+  <img src="assets/icons/stack-7-git.svg" alt="Git" height="56" />
+  <img src="assets/icons/stack-8-github.svg" alt="GitHub" height="56" />
 </p>
 
 <h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=22&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=211&height=36&lines=GitHub%20Stats" alt="GitHub Stats" /></h2>
