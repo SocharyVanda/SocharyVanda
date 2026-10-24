@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/banner.gif" alt="Neon-lit purple alley with a graffiti wall" width="55%"></p>
+<p align="center"><img src="assets/banner.gif" alt="Neon-lit purple alley with a graffiti wall" width="75%"></p>
 
 <!-- <p align="center">
   <a href="https://github.com/SocharyVanda">
