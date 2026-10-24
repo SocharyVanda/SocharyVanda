@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="left"> About Me ( •̀ ω •́ )✧</h2>
+<h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=28&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=439&height=45&lines=About%20Me%20%28%20%E2%80%A2%CC%80%20%CF%89%20%E2%80%A2%CC%81%20%29%E2%9C%A7" alt="About Me ( •̀ ω •́ )✧" /></h2>
 
 <img src="assets/about.gif" alt="Figure looking out a window at a neon city" align="right" width="300">
 
@@ -28,7 +28,7 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
 
 <br clear="right"/>
 
-<h2 align="left"> Connect</h2>
+<h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=28&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=200&height=45&lines=Connect" alt="Connect" /></h2>
 
 <p align="center">
   <a href="https://github.com/SocharyVanda"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" /></a>&nbsp;
@@ -36,13 +36,13 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
   <a href="mailto:vandasochary@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" /></a>
 </p>
 
-<h2 align="left"> Tech Stack</h2>
+<h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=28&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=230&height=45&lines=Tech%20Stack" alt="Tech Stack" /></h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,c,cpp,python,html,css,js,git,github&perline=9" alt="Tech stack" />
 </p>
 
-<h2 align="left"> GitHub Stats</h2>
+<h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=28&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=268&height=45&lines=GitHub%20Stats" alt="GitHub Stats" /></h2>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SocharyVanda&theme=github-dark-blue&hide_border=true" alt="GitHub streak" height="195" />
@@ -50,19 +50,19 @@ My goal is simple: keep learning, write clean code, and grow into a software eng
   <img src="assets/typing.gif" alt="Hands typing on a retro keyboard" height="195" />
 </p>
 
-<h2 align="left"> Contribution Calendar</h2>
+<h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=28&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=439&height=45&lines=Contribution%20Calendar" alt="Contribution Calendar" /></h2>
 
 <p align="center">
   <img src="assets/contribution-calendar.svg" alt="Contribution calendar" width="100%" />
 </p>
 
-<h2 align="left"> Activity Graph</h2>
+<h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=28&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=306&height=45&lines=Activity%20Graph" alt="Activity Graph" /></h2>
 
 <p align="center">
   <img src="assets/activity-graph.svg" alt="Activity graph" width="100%" />
 </p>
 
-<h2 align="left"> Contribution</h2>
+<h2 align="left"><img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=700&size=28&duration=1500&pause=4000&color=F0F6FC&center=false&vCenter=true&width=268&height=45&lines=Contribution" alt="Contribution" /></h2>
 
 <p align="center">
   <picture>
